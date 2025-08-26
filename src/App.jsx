@@ -12,7 +12,7 @@ function App() {
       <Hero/>
       <Todo/>
 
-      <Footer/>
+      {/* <Footer/> */}
       
     </>
   );
