@@ -9,19 +9,6 @@ Features
 - Sticky footer that stays at the bottom
 - Simple and clean UI using Tailwind CSS
 
-
-Installation
-
-1. Clone the repository:
-```bash
-git clone https://github.com/username/react-todo-footer-app.git
-cd react-todo-footer-app
-
-
-npm intall
-
-npm run dev
-
 Technologies Used
 
   React
@@ -34,3 +21,16 @@ Technologies Used
 Author
 
   Tohd Ladman
+
+
+Installation
+
+1. Clone the repository:
+```bash
+git clone https://github.com/username/react-todo-footer-app.git
+cd react-todo-footer-app
+
+
+npm intall
+
+npm run dev
